@@ -12,5 +12,8 @@ A fun Tic Tac Toe game built using HTML, CSS and JavaScript.
 - CSS
 - JavaScript
 
+## 🚀 Live Demo
+https://samir-frontend.github.io/tic-tac-toe/
+
 ## 👨‍💻 Author
 Samir
